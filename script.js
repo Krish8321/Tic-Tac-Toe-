@@ -105,4 +105,4 @@ rstBtn.addEventListener("click" , rstFunc);
 
 
 
-// we will add a line for winning combinations it is a bit complicated now for me 
+// we will add a line for winning combinations. Now , it is a bit complicated for me 
