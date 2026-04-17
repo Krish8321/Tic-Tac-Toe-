@@ -5,7 +5,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 -> Two-player gameplay 👥 <br>
 -> Win and draw detection <br>
 -> Interactive UI <br>
--> Simple and clean design <br>
+-> Simple and clean design <br> <br>
 🎯 <b>How It Works </b> <br>
 -> Two players take turns (X and O) <br>
 -> Click on a box to make a move <br>
